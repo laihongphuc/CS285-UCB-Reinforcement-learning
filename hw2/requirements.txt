@@ -1,7 +1,8 @@
 swig==4.0.2
 mujoco==2.2.0
-gym[box2d,classic_control]==0.25.2
+# gym[box2d,classic_control]==0.25.2
 tensorboard==2.10.0
+gym==0.25.2
 tensorboardX==2.5.1
 matplotlib==3.5.3
 ipython==7.34.0
